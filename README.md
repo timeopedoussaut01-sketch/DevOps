@@ -1,9 +1,10 @@
 # TP DevOps - Gestion Git
 
-## 1. Installation de Git
+## Gestion Git
 Installation effectuée sur Windows. Commande de vérification :
 
-```powershell
+```PowerShell
+## 1. Installation de Git
 git --version
 
 ## 2. Sources utilisées : 
