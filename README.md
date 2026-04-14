@@ -17,7 +17,7 @@ Guide GitHub - Connexion SSH -> Pour la génération de la clé
 
 Lexique des commandes Utilisées :
 
-git branch	-> Permet d'isoler le développement sur une branche develop sans impacter le code stable.
+git branch	-> Permet de isoler le développement sur une branche develop sans impacter le code stable.
 git checkout	-> Utilisé pour naviguer entre les branches main et develop.
 git commit -m	-> Enregistre un "instantané" (snapshot) des modifications avec un message explicatif.
 git merge	-> Fusionne les travaux validés de la branche develop vers la branche main.
