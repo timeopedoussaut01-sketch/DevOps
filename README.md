@@ -29,7 +29,6 @@ Remove-Item	-> Utilisé pour nettoyer le projet en supprimant file3.
 
 ## 5. Lexique des commandes utilisées :
 
-graph LR
     A[Initialisation] --> B(Branche develop)
     B --> C{Modifs}
     C --> D[Merge]
